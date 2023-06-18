@@ -1,6 +1,6 @@
 #!/bin/bash
 #Um erro que me custou horas, esqueci de acessar a variável usando $, não cometa isso denovo
-
+#Ainda falta adicionar um loop para sair apenas quando o usuário desejar
 echo "Select a letter():"
 echo "a all information"
 echo "m machine hardware name"
